@@ -12,4 +12,3 @@ public class ReverseArray {
     System.out.println(Arrays.toString(arr));
   }
 }
-ssh-add -K ~/.ssh/id_ed25519
